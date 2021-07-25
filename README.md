@@ -13,5 +13,5 @@ Currently working for SIESA[https://www.siesa.com/] as a Staff developer.
 
 ## Contact
 
-My Facebook: [websites](https://www.facebook.com/jairoalzate.1606)
-My Twitter:  @jairoalzate2
+My Facebook: [Facebook](https://www.facebook.com/jairoalzate.1606)
+My Twitter:  [Twitter](https://twitter.com/jairoalzate2)
