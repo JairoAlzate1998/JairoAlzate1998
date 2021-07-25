@@ -1,13 +1,13 @@
 Hello.
 
-My name is Jairo, I'm from Colombia and I'm Systems and Computer Engineer.
+My name is Jairo, I'm from Colombia and I'm Systems and Computer Engineer of Universidad Pedagogica y Tecnologica de Colombia (UPTC).
 
 Currently working for SIESA[https://www.siesa.com/] as a Staff developer.
 
 ## Skills
 
-* Developed in Java and JavaScript
-* Developed in Python
+* Java Development
+* Python Development
 * Backend developer in NodeJs with Express 
 * Knowledge in Oracle and PostgreSQL databases
 
