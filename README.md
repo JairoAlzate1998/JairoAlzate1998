@@ -10,6 +10,8 @@ Currently working for SIESA[https://www.siesa.com/] as a Staff developer.
 * Python Development
 * Backend developer in NodeJs with Express 
 * Knowledge in Oracle and PostgreSQL databases
+* Knowledge in MongoDB
+* Angular Development
 
 ## Contact
 
