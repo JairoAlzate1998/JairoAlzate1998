@@ -12,6 +12,7 @@ Currently working for SIESA[https://www.siesa.com/] as a Staff developer.
 * Knowledge in Oracle and PostgreSQL databases
 * Knowledge in MongoDB
 * Angular Development
+* Ionic Development
 
 ## Contact
 
